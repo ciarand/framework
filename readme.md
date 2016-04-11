@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 ## Laravel Framework (Kernel)
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
